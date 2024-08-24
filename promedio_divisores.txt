@@ -1,0 +1,3 @@
+Los divisores de 130 son: [1, 2, 5, 10, 13, 26, 65, 130]
+
+El promedio de los divisores es: 31.5
