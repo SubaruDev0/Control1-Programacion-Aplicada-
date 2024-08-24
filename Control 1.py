@@ -37,13 +37,13 @@ while True:
         print("\n- INGRESA UN NÚMERO VÁLIDO - \n") 
  
 divisores = calcular_divisores(n) 
- 
+
 archivoTXT = "./promedio_divisores.txt" 
  
 promedio_divisores(divisores, archivoTXT, n) 
  
 if n != 0: 
     print(f"\nEl promedio de los divisores ha sido calculado y guardado en el archivo de texto: {archivoTXT[2:-4]}")
-    
+
 
 
