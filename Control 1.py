@@ -43,6 +43,7 @@ archivoTXT = "./promedio_divisores.txt"
 promedio_divisores(divisores, archivoTXT, n) 
  
 if n != 0: 
-    print(f"\nEl promedio de los divisores ha sido calculado y guardado en el archivo de texto: {archivoTXT[2:-4]}") 
+    print(f"\nEl promedio de los divisores ha sido calculado y guardado en el archivo de texto: {archivoTXT[2:-4]}")
+    
 
 
